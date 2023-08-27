@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.profile-container {
+    background-color: rgb(29, 27, 27);
+    background-size: cover;
+    width: 30%;
+    flex-grow: 1;
+    flex-shrink: 0;
+    padding-top: 40px;
+
+}
+
+.bg-container {
+    display: flex;
+}
+
+.para {
+    background-color: yellow;
+}
+
+.para1 {
+    background-color: rgb(46, 44, 44);
+    margin-left: 40px;
+    display: flex;
+    flex-grow: 1;
+    padding: 5px;
+    color: #ffffff;
+    font-family: Roboto;
+}
+
+.num {
+    color: #ffffff;
+    font-family: Roboto;
+    margin-left: 45px;
+}
+
+.skills-head {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+.line {
+    background-color: yellow;
+    border: 1px solid yellow;
+    margin-left: 32px;
+}
+
+.skills {
+    margin-top: 40px;
+}
+
+.skills-list {
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+.list {
+    margin-top: 15px;
+}
+
+.name-head {
+    background-color: yellow;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.profile-details-container {
+    flex-grow: 1;
+}
+
+.about-name {
+    font-family: Roboto;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.about-description {
+    font-family: Roboto;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.line1 {
+    border: 1px solid black;
+    margin: 20px;
+}
+
+.heading {
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: underline;
+}
